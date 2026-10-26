@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+week*_memory.json
+*.db
+*.db-shm
+*.db-wal
